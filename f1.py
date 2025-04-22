@@ -120,3 +120,5 @@ window.bind("<Down>", lambda event: change_direction("down"))
 next_turn(snake, food)
 
 window.mainloop()
+
+# This code is a simple implementation of the classic Snake game using Tkinter in Python.
